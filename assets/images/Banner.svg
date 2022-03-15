@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,10 +157,11 @@
        xml:space="preserve"
        id="text1125"
        style="font-weight:bold;font-size:22.5778px;line-height:0;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1127);fill:#aac789;fill-opacity:1;fill-rule:nonzero;stroke:#aac789;stroke-opacity:1"
-       transform="matrix(0.63517679,-0.17019511,0.17019511,0.63517679,-39.196028,102.3209)"><tspan
-         x="45.416074"
+       transform="matrix(0.63517679,-0.17019511,0.17019511,0.63517679,-35.325996,102.3209)"><tspan
+         x="51.543598"
          y="29.706267"><tspan
-           style="font-size:22.5778px;fill:#aac789;fill-opacity:1;fill-rule:nonzero;stroke:#aac789;stroke-opacity:1">BOSSCon</tspan></tspan></text>
+           style="font-size:22.5778px;fill:#aac789;fill-opacity:1;fill-rule:nonzero;stroke:#aac789;stroke-opacity:1">BOSS</tspan><tspan
+           style="font-size:15.694px">Con</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1131"
