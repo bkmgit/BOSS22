@@ -18,17 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BOSS 2022
+title: "BOSSCon 2022"
 email: bioinformaticshubofkenya@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Bioinformatics Hub of Kenya BOSS Conference, 26-29 April 2022
+description: &description "Bioinformatics Hub of Kenya BOSS Conference, 26-29 April 2022"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bosscon2022.bhki.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BioinfoHub_KE
 github_username:  bioinformatics-hub-ke
 minimal_mistakes_skin_dark: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin_light: "contrast"
-
+name: &name "BOSSCon 2022" # &name is a YAML anchor which can be *referenced later
+logo: "assets/images/BOSS_logo_G_large.svg" # logo to use on masthead
+masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
 exclude:
   - "README.md"
 
@@ -58,7 +59,22 @@ footer:
       url: "https://www.youtube.com/channel/UCWvCsVW7BF3Nml5VpLOdU5g"
 
 repository:  "bioinformatics-hub-ke/BOSS22"
-# Hide atom feed
+# Default teaser image
+teaser: "assets/images/BOSS_logo_G_large.svg"
+# Social Sharing
+twitter:
+  username: &twitter "bioinfohub_ke"
+# Image to use when sharing on social media
+og_image: "assets/images/BOSS_logo_G_large.svg"
+teaser: "assets/images/BOSS_logo_G_large.svg"
+
+social:
+  type: "Organization" # Person or Organization (defaults to Person)
+  name: "BHKi" # If the user or organization name differs from the site name
+  links: # Links to social media profiles
+    - "https://twitter.com/bioinfohub_ke"
+
+  # Hide atom feed
 atom_feed:
   hide: false
 
@@ -68,14 +84,12 @@ languages: ["en", "sw"]
 default_lang: "en"
 exclude_from_localization:
   - "assets/images"
-  - "assets/js"
   - "assets/css"
 
 parallel_localization: false
 sass:
   sourcemap: never
-# Logo to use on title page
-logo: "assets/images/BOSS_logo_G_large.svg"
+  style: compressed
 # Enable search
 search: false
 # Specify order of pages
@@ -86,6 +100,9 @@ header_pages:
   - codeofconduct.markdown
   - committee.markdown
   - privacy.markdown
+
+after_footer_scripts:
+  - /assets/js/plugins/jquery.greedy-navigation.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.
