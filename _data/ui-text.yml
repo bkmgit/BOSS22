@@ -51,6 +51,7 @@ en: &DEFAULT_EN
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
   sponsors                   : "Sponsors"
+  og_image_alt               : "BOSSCon 2022 logo"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -2016,6 +2017,7 @@ sw: &DEFAULT_SW
   results_found              : "Tumepata"
   back_to_top                : "Rudi juu"
   sponsors                   : "Wafadhili"
+  og_image_alt               : "Alama ya BOSSCon 2022"
 sw-KE:
   <<: *DEFAULT_SW
 sw-TZ:
