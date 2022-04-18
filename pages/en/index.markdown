@@ -61,15 +61,15 @@ interact with other researchers and more.
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |14:00|14:20|Opening session|Opening remarks (Introduction to the conference)| |Chair:|
 |14:10| | |What is BHKi and Open Science KE| | |
-|14:20|14:50|Keynote 1: Open science| | |Chair:|
+|14:20|14:50|Keynote 1: Research data management | | Sara El Gebali |Chair:|
 |14:50|15:00|Break| | | |
-|15:00| |Session 1.1| | |Chair:|
+|15:00| |Session 1.1: Reproducible Research | | Sebastian Musundi |Chair:|
 |15:15| |Session 1.2| | | |
 |15:30| |Session 1.3| | | |
 |15:45| |Q&A| | | |
 |15:55|16:00|Break| | | |
 |16:00| |Session 1.4| | |Chair:|
-|16:15| |Session 1.5| | | |
+|16:15| |Session 1.5: Open source software/ tools | | Benson Muite | |
 |16:30| |Session 1.6| | | |
 |16:45| |Q&A| | | |
 |17:00|18:00|Networking hour| | | |
@@ -77,9 +77,9 @@ interact with other researchers and more.
 
 ## Day 2, Wednesday, April 27, 2022
 
-|Start (EAT)|End (EAT)|Session 2: Genomics|Title|Presenter|Chair|
+|Start (EAT)|End (EAT)|Session 2: One Health|Title|Presenter|Chair|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:40|Keynote 2: Genomics| | |Chair:|
+|14:00|14:40|Keynote 2: Pathogen Genomics| | James Richard Otieno |Chair:|
 |14:40|14:55|Session 2.1| | | |
 |14:55|15:00|Break| | | |
 |15:00| |Session 2.2| | |Chair:|
@@ -96,9 +96,21 @@ interact with other researchers and more.
 
 ## Day 3, Thursday, April 28, 2022
 
-|Start (EAT)|End (EAT)|Session 3: One Health|Title|Presenter|Chair|
+|Start (EAT)|End (EAT)|Session 4: Unconference|Title|Presenter|Chair:|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:40|Keynote 3: One Health| | |Chair:|
+|14:00|14:55|Session 4.1: Careers in open science| | Angelique Trusler |Chair:|
+|14:55|15:00|Break| | | |
+|15:00|15:55|Session 4.2: Alternative career paths in genomics| | Yo Yehudi |Chair:|
+|15:55|16:00|Break| | | |
+|16:00|17:00|Session 4.3: Working and studying outside Kenya| | |Chair:|
+|17:00|18:00|Networking hour| | | |
+| | | | | | |
+
+## Day 4, Friday, April 29, 2022
+
+|Start (EAT)|End (EAT)|Session 3: Genomics|Title|Presenter|Chair|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14:00|14:40|Keynote 3: Genomics| | |Chair:|
 |14:40|14:55|Session 3.1| | | |
 |14:55|15:00|Break| | | |
 |15:00| |Session 3.2| | |Chair:|
@@ -106,21 +118,10 @@ interact with other researchers and more.
 |15:30| |Session 3.4| | | |
 |15:45| |Q&A| | | |
 |15:55|16:00|Break| | | |
-|16:00| |Session 3.5| | |Chair:|
-|16:15| |Session 3.6| | | |
+|16:00| |Session 3.5: Large-scale computational regulatory genomics| | Anshul Kundaje |Chair:|
+|16:15| |Session 3.6: Cloud Genomics| | Andrew Espira | |
 |16:30| |Session 3.7| | | |
 |16:45| |Q&A| | | |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
-## Day 4, Friday, April 29, 2022
-
-|Start (EAT)|End (EAT)|Session 4: Unconference|Title|Presenter|Chair:|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:55|Session 4.1| | |Chair:|
-|14:55|15:00|Break| | | |
-|15:00|15:55|Session 4.2| | |Chair:|
-|15:55|16:00|Break| | | |
-|16:00|17:00|Session 4.3| | |Chair:|
-|17:00|18:00|Networking hour| | | |
-| | | | | | |
