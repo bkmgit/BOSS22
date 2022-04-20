@@ -63,7 +63,7 @@ interact with other researchers and more.
 |14:10|14:20| |What is BHKi and Open Science KE| | |
 |14:20|15:00|Keynote 1: Research data management | | Sara El Gebali |Chair: Benson Muite|
 |15:00|15:10|Break| | | |
-|15:10|15:30|Session 1.1| | |Chair: Benson Muite|
+|15:10|15:30|Session 1.1| | Caleb Kibet |Chair: Benson Muite|
 |15:30|15:50|Session 1.2| | | |
 |15:50|16:00|Q&A| | | |
 |16:00|16:10|Break| | | |
@@ -93,31 +93,30 @@ interact with other researchers and more.
 
 ## Day 3, Thursday, April 28, 2022
 
-|Start (EAT)|End (EAT)|Session 4: Unconference|Title|Presenter|Chair|
+|Start (EAT)|End (EAT)|Session 3: Unconference|Title|Presenter|Chair|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:50|Session 4.1: Careers in open science| | Angelique Trusler |Chair: Caleb Kibet|
+|14:00|14:50|Session 3.1: Careers in open science| | Angelique Trusler |Chair: Caleb Kibet|
 |14:50|15:00|Break| | | |
-|15:00|15:50|Session 4.2: Alternative career paths in genomics| | Yo Yehudi |Chair: Caleb Kibet|
+|15:00|15:50|Session 3.2: Alternative career paths in genomics| | Yo Yehudi |Chair: Caleb Kibet|
 |15:50|16:00|Break| | | |
 |16:00|16:15|Ice Breaker Session| | | |
-|16:15|17:00|Session 4.3: Working and studying outside Kenya| | |Chair: Caleb Kibet|
+|16:15|17:00|Session 3.3: Working and studying outside Kenya| | |Chair: Caleb Kibet|
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
 ## Day 4, Friday, April 29, 2022
 
-|Start (EAT)|End (EAT)|Session 3: Genomics|Title|Presenter|Chair|
+|Start (EAT)|End (EAT)|Session 4: Genomics|Title|Presenter|Chair|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:40|Keynote 3: Genomics| | |Chair: Michael Landi|
-|14:40|14:55|Ice Breaker Session| | | |
-|14:55|15:05|Break| | | |
-|15:05|15:25|Session 3.1| | |Chair: Michael Landi|
-|15:25|15:45|Session 3.2| | | |
+|14:00|14:20|Session 4.1| | |Chair: Michael Landi|
+|14:20|14:40|Session 4.2: Cloud Genomics| | Andrew Espira | |
+|14:40|14:50|Break| | | |
+|14:50|15:05|Ice Breaker Session| | | |
+|15:05|15:25|Session 4.3| | Sammy Wambua |Chair: Michael Landi|
+|15:25|15:45|Session 4.4: Cloud Genomics| | Andrew Espira | |
 |15:45|16:00|Q&A| | | |
 |16:00|16:10|Break| | | |
-|16:10|16:30|Session 3.3: Large-scale computational regulatory genomics| | Anshul Kundaje |Chair: Michael Landi|
-|16:30|16:50|Session 3.4: Cloud Genomics| | Andrew Espira | |
-|16:50|17:00|Q&A| | | |
+|16:10|17:00|Keynote 4: Large-scale computational regulatory genomics| | Anshul Kundaje |Chair: Michael Landi|
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
