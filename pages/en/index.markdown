@@ -59,17 +59,17 @@ interact with other researchers and more.
 
 |Start (EAT)|End (EAT)|Session 1: Open Science|Title|Presenter|Chair|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:10|Opening session|Opening remarks (Introduction to the conference)| |Chair: Benson Muite|
+|14:00|14:10|Opening session|Opening remarks (Introduction to the conference)| |Chair: Pauline Karega |
 |14:10|14:20| |What is BHKi and Open Science KE| | |
-|14:20|15:00|Keynote 1: Research data management | | Sara El Gebali |Chair: Benson Muite|
+|14:20|15:00|Keynote 1: Research data management | | Sara El Gebali |Chair: Pauline Karega|
 |15:00|15:10|Break| | | |
-|15:10|15:30|Session 1.1| | Caleb Kibet |Chair: Benson Muite|
+|15:10|15:30|Session 1.1| | Caleb Kibet |Chair: Pauline Karega|
 |15:30|15:50|Session 1.2| | | |
 |15:50|16:00|Q&A| | | |
 |16:00|16:10|Break| | | |
 |16:10|16:20|Ice Breaker Session| | | |
-|16:20|16:40|Session 1.3| | |Chair: Benson Muite|
-|16:40|17:00|Session 1.4: Open source software/ tools | | Benson Muite | |
+|16:20|16:40|Session 1.3| | |Chair: Pauline Karega|
+|16:40|17:00|Session 1.4: An introduction to GitLab pages for presentations and portfolios| |Benson Muite |Chair: Pauline Karega|
 |17:00|17:15|Q&A| | | |
 |17:15|18:00|Networking hour| | | |
 | | | | | | |
