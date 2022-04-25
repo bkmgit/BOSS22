@@ -69,7 +69,7 @@ interact with other researchers and more.
 |16:00|16:10|Break| | | |
 |16:10|16:20|Ice Breaker Session| | | |
 |16:20|16:40|Session 1.3| | |Chair: Pauline Karega|
-|16:40|17:00|Session 1.4: An introduction to GitLab pages for presentations and portfolios| |Benson Muite |Chair: Pauline Karega|
+|16:40|17:00|Session 1.4|An introduction to GitLab pages for presentations and portfolios|Benson Muite|Chair: Pauline Karega|
 |17:00|17:15|Q&A| | | |
 |17:15|18:00|Networking hour| | | |
 | | | | | | |
