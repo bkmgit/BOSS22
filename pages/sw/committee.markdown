@@ -7,29 +7,29 @@ toc_sticky: true
 lang: sw
 ---
 ## Caleb Kibet (Mwongozi)
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Caleb]({{ site.baseurl }}/assets/images/Caleb.jpg){: height="150" width="150" }
 
-<!-- add bio here-->
+Caleb Kibet ni mchuguzaji wa bioinfomatiki, mhadhiri, mtangaza wa sayansi wazi, na mshauri. Caleb anachunguza bioinfomatiki kwa _icipe_ na anafunza bioinfomatiki kwa chuo kikuu cha Pwani. Anachunguza kanuni cha msingi cha biolojia, na anatumia programmu cha kuelemisha na takwimu kuelewa mipangilio ya atomi na migonjwa zinasabibisha. Caleb ni mwumba wa SayansiWaziKE (kwa kiingereza OpenScienceKE), kundi ina elemisha maneno ya kuchunguza sayansi ya bioinfomatiki wazi kwa Kenya. Caleb anapenda sayansi wazi na uchunguzi wa bioinfomatiki unaweza kuthibitishwa. Anatafuta nafasi kueneza habari ya sayansi wazi, hususa kwa jamii ya bioinfomatiki hapa Kenya.
   
 ## Pauline Karega
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Pauline]({{ site.baseurl }}/assets/images/Pauline.jpg){: height="150" width="150" }
 
-<!--add bio here-->
+Pauline Karega ni mwanafunzi wa bioinfomatiki na anachunguza maendeleo ya biolojia. Ni mwumba wa Kundi la bioinfomatiki ya Kenya (kwa kiingereza Bioinformatics Hub of Kenya Initiative - BHKi) na anapenda kazi ya meneja. Pia, anapenda kuelemisha wengine kwa sayansi ya bioinfomatiki na sayansi ya data. Ni mwalimu wa "Carpentries" na anasomesha wengine.  Kuburudika anapenda michezo ya sanaa. 
   
 ## Margaret Wanjiku
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Margaret]({{ site.baseurl }}/assets/images/MWanjiku-profile-pic.jpg){: height="150" width="150" }
 
-<!--add bio here-->
+Margaret ni mwandishi wa halamshauri wa BHKi. Ni mwanabioinformatika anpenda kujielemisha na sayansia ya bionfomatika na data kubwa.
   
 ## Kennedy Mwangi
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Kennedy]({{ site.baseurl }}/assets/images/Kennedy_prof_pic.jpg){: height="150" width="150" }
   
-<!--add bio here-->
-  
+Kennedy ni mwanabioinfomatika na anachunguza kansa ya ziwa. Ni mwumba na mwanachama wa SayansiWaziKE (kwa kiingereza OpenScienceKE) na mwalimu kwa "Carpentries".
+
 ## Michael Kofia
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png) 
+![Michael Picha]({{ site.baseurl }}/assets/images/Landi_Image.png){: height="150" width="150" }
   
-Ni mhazili wa BHKi, shirika alianzisha na wengine.  Ni mbingu wa sayansi ya msingi ya biologia. Anafanya kazi na IITA, katika ILRI, na apenda kuelimisha. Anajua R sana, mwulize swali na utakua sawa.
+Michael ni mwanafunzi wa bioinformatic na nia ya epigenetics na genomics. Mwanzilishi mwenza wa Bioinformatics Hub ya Kenya (BHKI). Yeye ni mwalimu wa programu ya kuthibitishwa, mhitimu wa Sayansi ya Maisha ya Open (OLS) na mshauri. Yeye ni shauku juu ya kujenga uwezo. Kuburudika: Kukimbia, Baiskeli na Kuogelea moja kwa moja (kwa Kiingereza Triathlon)!
 
 
 ## Benson Muite
@@ -46,12 +46,13 @@ Festus ni Mwanasayansi wa Data anayetumia zana za takwimu na mbinu za kukokotoa 
 ## David Kiragu
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
 
-<!--add bio here-->
+David ni mwanafunzi wa bioinfomatiki na anapenda kujielemisha habari ya kupata data ya na kutumia uzoefu ya kompyuta kutafiti swali kutoka magonjwa zimetoka wanyama na zimeingiwa binadamu, na kuhifadhi wanyama wa porini. Ako kwa jamii ya BiXCop 2021 na ni mtaalamu wa bioinfomatiki na biolojia. Anapenda kuelemisha wengine, ni mwumba na mwalimu kwa Kundi la bioinfomatiki ya Kenya (kwa kiingereza Bioinformatics Hub of Kenya Initiative - BHKi) na Mkutano cha Kimtaifa cha Afrika ya Bioteknolojia na Sayansi ya tiba (kwa kiingereza African International Biotechnology and Biomedical Conference). Kwa sasa ni mshirika wa Chuo cha Uchunguzi ya Kima (kwa kiingereza His current affiliatInstitute of Primate Research -IPR), Kenya. Kuburudisha anapenda: baiskeli na kusafiri. 
+
   
 ## Ruth Nanjala
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Nanjala]({{ site.baseurl }}/assets/images/Ruth.Nanjala.photograph.jpg){: height="150" width="150" }
 
-<!--add bio here-->
+Nanjala ni mwana bioinfomatiki katita taasisi ya utafiti ya ICIPE. Anaiongoza programu ya kuwafunza na kuwashauri wanasayansi katika maswala ya bioinfomatiki, ili wawe na uwezo wa kuchangia utafiti wa jenomiki. Nanjala ana nia ya kuielewa jenetiki ya HLA na uhusiano wake na magonjwa yanayoadhiri mfumo wa kinga mwilini. Nanjala pia ni mwenye shauku ya kujenge uwezo wa bioinfomatiki barani Africa. Amejihusisha na miradi tofauti inayochangia maarifa ya bionfomatiki kwa wanasayansi barani Africa. Nanjala ana mafunzo rasmi ya Bioinfomatiki na Microbiolojia.
   
 ## Sarah Nyanchera
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)

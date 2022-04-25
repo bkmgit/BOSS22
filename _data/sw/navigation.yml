@@ -4,10 +4,11 @@ main:
     url: /
   - title: "Wasemaji"
     url: /speakers/
-  - title: "Jiandikisha"
-    url: /register/
+  - title: "Tuma Muhtasari"
+    url: /submit/
   - title: "Desturi za Miendo"
     url: /codeofconduct/
   - title: "Halamashauri"
     url: /committee/
-
+  - title: "Faragha"
+    url: /privacy/
