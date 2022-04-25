@@ -57,66 +57,62 @@ interact with other researchers and more.
 
 ## Day 1, Tuesday, April 26, 2022
 
-|Start (EAT)|End (EAT)|Session 1: Open Science|Title|Presenter|Chair|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:10|Opening session|Opening remarks (Introduction to the conference)| |Chair: Pauline Karega |
-|14:10|14:20| |What is BHKi and Open Science KE| | |
-|14:20|15:00|Keynote 1: Research data management | | Sara El Gebali |Chair: Pauline Karega|
-|15:00|15:10|Break| | | |
-|15:10|15:30|Session 1.1| | Caleb Kibet |Chair: Pauline Karega|
-|15:30|15:50|Session 1.2| | | |
-|15:50|16:00|Q&A| | | |
-|16:00|16:10|Break| | | |
-|16:10|16:20|Ice Breaker Session| | | |
-|16:20|16:40|Session 1.3| | |Chair: Pauline Karega|
-|16:40|17:00|Session 1.4|An introduction to GitLab pages for presentations and portfolios|Benson Muite|Chair: Pauline Karega|
-|17:00|17:15|Q&A| | | |
-|17:15|18:00|Networking hour| | | |
+|Start (EAT)|End (EAT)|Presenter and Title|Chair|
+|:---:|:---:|:---:|:---:|
+|14:00|14:10|Opening remarks (Introduction to the conference) by Mike Kofia|Chair: Pauline Karega |
+|14:10|14:20|What is BHKi and Open Science KE| | |
+|14:20|14:30|Ice breaker session | | |
+|14:30|14:55|Keynote 1: Research data management by Sara El Gebali ||
+|14:55|15:05|Break| | | |
+|15:05|15:30|Joy Owango TCC Africa||
+|15:30|15:55|Q&A and Discussion| | | |
+|15:55|16:00|Short break| | | |
+|16:00|16:50|An introduction to GitLab pages for presentations and portfolios by Benson Muite|| |
+|17:00|18:00|Networking hour| | | |
 | | | | | | |
 
 ## Day 2, Wednesday, April 27, 2022
 
-|Start (EAT)|End (EAT)|Session 2: One Health|Title|Presenter|Chair|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:40|Keynote 2: Pathogen Genomics| | James Richard Otieno |Chair: Margaret Wanjiku|
-|14:40|14:55|Ice Breaker Session| | | |
-|14:55|15:05|Break| | | |
-|15:05|15:25|Session 2.1: Reproducible research | | Sebastian Musundi |Chair: Margaret Wanjiku|
-|15:25|15:45|Session 2.2| | | |
-|15:45|16:00 |Q&A| | | |
+|Start (EAT)|End (EAT)|Title and Presenter|Chair|
+|:---:|:---:|:---:|:---:|
+|14:00|14:40|Keynote one health session: Pathogen Genomics by James Richard Otieno |Chair: Margaret Wanjiku|
+|14:40|14:50|Q&A One Helath| |
+|14:50|15:00|Break| | | |
+|15:00|15:30|Plant Genomics session: Keynote by Trushar Shah||
+|15:30|15:55|Q&A|| 
 |16:00|16:10|Break| | | |
-|16:10|16:30|Session 2.3| | Joseph Amwona |Chair: Margaret Wanjiku|
-|16:30|16:50|Session 2.4| | | |
-|16:50|17:00|Q&A| | | |
+|16:10|16:20|Icebreaker reproducibility||
+|16:10|16:30|Reproducibity in research: session 1: Joseph Amwona; Open science in Africa ||
+|16:30|16:50|Reproducibility in research: session 2: Sebastian Musundi| | 
+|16:50|17:00|Q&A and break| | | |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
 ## Day 3, Thursday, April 28, 2022
 
-|Start (EAT)|End (EAT)|Session 3: Unconference|Title|Presenter|Chair|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:50|Session 3.1: Careers in open science| | Angelique Trusler |Chair: Caleb Kibet|
-|14:50|15:00|Break| | | |
-|15:00|15:50|Session 3.2: Alternative career paths in genomics| | Yo Yehudi |Chair: Caleb Kibet|
-|15:50|16:00|Break| | | |
-|16:00|16:15|Ice Breaker Session| | | |
-|16:15|17:00|Session 3.3: Working and studying outside Kenya| | |Chair: Caleb Kibet|
+|Start (EAT)|End (EAT)|Title and Presenter|Chair|
+|:---:|:---:|:---:|:---:|
+|14:10|14:35|Careers in open science by Angelique Trusler |Chair: Caleb Kibet|
+|14:35|15:00|Science Communication by Bibiana Iraki| | | |
+|15:00|15:25|Alternative career paths within open science by Yo Yehudi ||
+|15:25|15:50|What's the Fuss About Communicating (Your) Science by Anne Chisa| | | |
+|15:50|16:00|Ice Breaker Session| | | |
+|16:00|17:30|Working and studying outside Kenya||
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
 ## Day 4, Friday, April 29, 2022
 
-|Start (EAT)|End (EAT)|Session 4: Genomics|Title|Presenter|Chair|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|14:00|14:20|Session 4.1| | |Chair: Michael Landi|
-|14:20|14:40|Session 4.2: Cloud Genomics| | Andrew Espira | |
-|14:40|14:50|Break| | | |
-|14:50|15:05|Ice Breaker Session| | | |
-|15:05|15:25|Session 4.3| | Sammy Wambua |Chair: Michael Landi|
-|15:25|15:45|Session 4.4: Cloud Genomics| | Andrew Espira | |
-|15:45|16:00|Q&A| | | |
-|16:00|16:10|Break| | | |
-|16:10|17:00|Keynote 4: Large-scale computational regulatory genomics| | Anshul Kundaje |Chair: Michael Landi|
-|17:00|18:00|Networking hour| | | |
+|Start (EAT)|End (EAT)|Title and Presenter|Chair|
+|:---:|:---:|:---:|:---:|
+|14:10|14:35|Genomics presentation by Sammy Wambua|Chair: Michael Landi|
+|14:35|14:50|Q&A Session Genomics | |
+|14:50|15:00|Break| | | |
+|15:00|15:20|Evolutionary Vector Genomics presentation by Karega Pauline| | | |
+|15:20|15:30|Break||
+|15:30|15:55|Cloud Genomics by Andrew Espira | |
+|16:00|16:30|Large-scale computational regulatory genomics by Anshul Kundaje| | | |
+|16:30|16:55|Q&A for Andrew and Anshul| | | |
+|16:55|17:00|Closing Remarks by Caleb Kibet|
 | | | | | | |
 
