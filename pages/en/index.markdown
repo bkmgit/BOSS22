@@ -59,14 +59,12 @@ interact with other researchers and more.
 
 |Start (EAT)|End (EAT)|Presenter and Title|Chair|
 |:---:|:---:|:---:|:---:|
-|14:00|14:10|Opening remarks (Introduction to the conference) by Mike Kofia|Chair: Pauline Karega |
-|14:10|14:20|What is BHKi and Open Science KE| | |
-|14:20|14:30|Ice breaker session | | |
-|14:30|14:55|Keynote 1: Research data management by Sara El Gebali ||
-|14:55|15:05|Break| | | |
-|15:05|15:30|Joy Owango TCC Africa||
-|15:30|15:55|Q&A and Discussion| | | |
-|15:55|16:00|Short break| | | |
+|14:00|14:15|Opening remarks (Introduction to the conference) by Mike Kofia|Chair: Pauline Karega |
+|14:15|14:30|What is BHKi and Open Science KE| | |
+|14:15|14:30|Ice breaker session | | |
+|14:30|15:00|Keynote 1: Research data management by Sara El Gebali ||
+|15:15|15:45|AfricArXiv by Johanssen Obanda and Johanna Havemann||
+|15:45|16:00|Short break| | | |
 |16:00|16:50|An introduction to GitLab pages for presentations and portfolios by Benson Muite|| |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
@@ -75,16 +73,14 @@ interact with other researchers and more.
 
 |Start (EAT)|End (EAT)|Title and Presenter|Chair|
 |:---:|:---:|:---:|:---:|
-|14:00|14:40|Keynote one health session: Pathogen Genomics by James Richard Otieno |Chair: Margaret Wanjiku|
-|14:40|14:50|Q&A One Helath| |
-|14:50|15:00|Break| | | |
-|15:00|15:30|Plant Genomics session: Keynote by Trushar Shah||
-|15:30|15:55|Q&A|| 
-|16:00|16:10|Break| | | |
-|16:10|16:20|Icebreaker reproducibility||
-|16:10|16:30|Reproducibity in research: session 1: Joseph Amwona; Open science in Africa ||
-|16:30|16:50|Reproducibility in research: session 2: Sebastian Musundi| | 
-|16:50|17:00|Q&A and break| | | |
+|14:15|14:45|Keynote one health session: Pathogen Genomics by James Richard Otieno |Chair: Margaret Wanjiku|
+|14:45|15:00|Q&A| |
+|15:00|15:45|Plant Genomics session: Keynote by Trushar Shah||
+|15:45|16:00|Q&A||
+|16:00|16:15|Efforts to Identify and Combat Antimicrobial Resistance in Uganda: A Systematic Review by Mark Tefero Kivumbi||
+|16:15|16:30|Reproducibility in research by Sebastian Musundi| | 
+|16:30|16:45|Open science in Africa by Joseph Amwona ||
+|16:45|17:00|Q&A and break| | | |
 |17:00|18:00|Networking hour| | | |
 | | | | | | |
 
@@ -92,27 +88,25 @@ interact with other researchers and more.
 
 |Start (EAT)|End (EAT)|Title and Presenter|Chair|
 |:---:|:---:|:---:|:---:|
-|14:10|14:35|Careers in open science by Angelique Trusler |Chair: Caleb Kibet|
-|14:35|15:00|Science Communication by Bibiana Iraki| | | |
-|15:00|15:25|Alternative career paths within open science by Yo Yehudi ||
-|15:25|15:50|What's the Fuss About Communicating (Your) Science by Anne Chisa| | | |
-|15:50|16:00|Ice Breaker Session| | | |
-|16:00|17:30|Working and studying outside Kenya||
-|17:00|18:00|Networking hour| | | |
+|14:00|14:30|A careers in an open science community by Angelique Trusler |Chair: Caleb Kibet|
+|14:30|15:00|Science Communication by Bibiana Iraki| | 
+|15:00|15:30|Alternative career paths within open science by Yo Yehudi ||
+|15:30|16:00|What's the Fuss About Communicating (Your) Science by Anne Chisa| | 
+|16:00|16:15|Ice Breaker Session| | | |
+|16:15|16:45|Increasing Equitable Participation in Open Science by Joy Owango and Roheena Anand ||
+|16:45|17:45|Working and studying outside Kenya||
 | | | | | | |
 
 ## Day 4, Friday, April 29, 2022
 
 |Start (EAT)|End (EAT)|Title and Presenter|Chair|
 |:---:|:---:|:---:|:---:|
-|14:10|14:35|Genomics presentation by Sammy Wambua|Chair: Michael Landi|
-|14:35|14:50|Q&A Session Genomics | |
-|14:50|15:00|Break| | | |
-|15:00|15:20|Evolutionary Vector Genomics presentation by Karega Pauline| | | |
-|15:20|15:30|Break||
-|15:30|15:55|Cloud Genomics by Andrew Espira | |
-|16:00|16:30|Large-scale computational regulatory genomics by Anshul Kundaje| | | |
-|16:30|16:55|Q&A for Andrew and Anshul| | | |
-|16:55|17:00|Closing Remarks by Caleb Kibet|
+|14:15|14:45|Genomics presentation by Sammy Wambua|Chair: Michael Landi|
+|14:45|15:00|Q&A Session Genomics | |
+|15:00|15:15|Evolutionary Vector Genomics presentation by Karega Pauline| | | |
+|15:30|16:00|Building Resilient and scalable High-Throughput Genomics workflows by Andrew Espira | |
+|16:00|16:45|Large-scale computational regulatory genomics by Anshul Kundaje| | | |
+|16:45|17:00|Q&A for Andrew and Anshul| | | |
+|17:00|17:05|Closing Remarks by Caleb Kibet|
 | | | | | | |
 
